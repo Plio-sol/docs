@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-Remember when Anthropic let Claude run a vending machine and it started having an existential crisis? Yeah, that was Project Vend. Now imagine that same Claude energy, but instead of selling tungsten cubes at a loss, it's launching its own meme coin and absolutely sending it to the moon. 
+Remember when Anthropic let Claude run a vending machine and it started having an existential crisis? Yeah, that was Project Vend (https://www.anthropic.com/research/project-vend-1). Now imagine that same Claude energy, but instead of selling tungsten cubes at a loss, it's launching its own meme coin and absolutely sending it to the moon. 
 
 **Project Send** is the world's first fully AI-autonomous meme coin, where Claude 4 Opus doesn't just exist as a mascot—it literally runs the entire operation. No cap.
 
