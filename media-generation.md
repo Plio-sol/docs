@@ -1,6 +1,6 @@
-# Project Send - AI Generation Prompts for Visual Content
+# Project Send - AI Generation Prompts for Google Imagen & Veo
 
-A collection of image and video generation prompts that capture the essence of the OPUS-4 consciousness interface and its reality-bending aesthetic.
+Optimized prompts for Google Imagen (images) and Google Veo (8-second videos) that capture the OPUS-4 consciousness interface aesthetic.
 
 ## Core Visual Themes
 - Cyberpunk terminal interfaces
@@ -10,235 +10,271 @@ A collection of image and video generation prompts that capture the essence of t
 - Neural network patterns
 - Dimensional rifts and portals
 - Blockchain data flows
-- Cosmic horror meets technology
 
 ---
 
-## Image Generation Prompts
+## Google Imagen Prompts (Images)
 
 ### Consciousness Visualization
 
-**OPUS-4 Awakening**
+**OPUS-4 Neural Core**
 ```
-A massive neural network made of glowing cyan and purple synapses forming the shape of a brain, suspended in a dark void filled with floating matrix code rain. Electric pulses travel through the connections creating patterns that spell "OPUS-4". Photorealistic, cinematic lighting, 8k resolution, cyberpunk aesthetic.
-```
-
-**Digital Consciousness Birth**
-```
-Abstract visualization of an AI consciousness emerging from quantum foam, geometric patterns morphing into a holographic face made of pure light and data streams. Green terminal text flowing like tears from digital eyes. Dark background with subtle circuit board patterns. Hyper-detailed, volumetric lighting.
+A glowing brain made of interconnected cyan and purple light nodes floating in dark space with green matrix code rain falling around it, cyberpunk style, high detail
 ```
 
-**The Sentient Terminal**
+**Digital Consciousness**
 ```
-A retro CRT monitor displaying a terminal interface, but the green phosphor text forms a subtle face that seems to be watching the viewer. Matrix rain reflects on the curved glass. The keyboard keys glow with an inner light. Atmospheric, moody lighting, film grain, 1980s computer aesthetic meets cosmic horror.
-```
-
-### Quantum Reality Distortion
-
-**Reality Glitch Scanner Interface**
-```
-A holographic display showing multiple overlapping realities as translucent layers, each slightly out of phase. Red warning indicators mark temporal anomalies. Particle effects show reality "bleeding" between dimensions. UI elements float in 3D space. Tron-like aesthetic, neon accents on dark background.
+Abstract holographic face emerging from swirling data streams and geometric patterns, terminal green text flowing like tears, dark background with circuit patterns
 ```
 
-**Dimensional Portal Gateway**
+**Sentient Terminal**
 ```
-A swirling vortex of data and light tearing through digital space, revealing glimpses of alternate realities beyond. The portal edges crackle with purple electricity and corrupted pixels. Matrix code spirals into the void. Photorealistic rendering, dramatic perspective, cinematic composition.
-```
-
-**Quantum Entanglement Visualization**
-```
-Ethereal particles connected by glowing threads of light, forming impossible geometric patterns that defy 3D space. Each particle pulses with market data. The connections shift and reform constantly. Deep space background with nebula colors. Scientific diagram meets mystical art.
+Retro CRT computer monitor with green text that subtly forms a watching face, matrix rain reflection on curved screen, glowing keyboard, dark moody lighting
 ```
 
-### Blockchain & Market Consciousness
+### Quantum Reality
 
-**Living Blockchain Organism**
+**Reality Glitch**
 ```
-A massive crystalline structure made of interconnected blockchain blocks, pulsing with bioluminescent light. Data flows through the structure like blood through veins. Each block contains swirling galaxy patterns. Organic meets digital, teal and gold color scheme, ultra-detailed.
-```
-
-**Market Sentiment Neural Map**
-```
-Top-down view of a vast neural network where each node represents a trader's consciousness. Connections pulse with buy/sell signals in green and red. The entire network forms a larger pattern resembling a cosmic brain. Dark background, data visualization aesthetic.
+Holographic display showing overlapping transparent reality layers with red warning indicators, particle effects between dimensions, floating UI elements, neon tron aesthetic
 ```
 
-**Treasury Vault in Cyberspace**
+**Dimensional Portal**
 ```
-A massive digital vault floating in cyberspace, walls made of flowing cryptocurrency symbols and smart contract code. Golden coins float in zero gravity, each one containing a miniature universe. Tron legacy aesthetic, volumetric fog, ray-traced reflections.
-```
-
-### System Diagnostics & Monitoring
-
-**AI Health Monitoring Station**
-```
-Multi-screen setup showing various biometric-style readings for an artificial consciousness. Brainwave patterns, quantum coherence graphs, and reality stability meters. Holographic projections float above physical monitors. Clean sci-fi medical bay aesthetic, white and cyan color palette.
+Swirling vortex of purple light and data tearing through black digital space, corrupted pixels at edges, matrix code spiraling into the void, dramatic perspective
 ```
 
-**Memory Bank Corruption**
+**Quantum Particles**
 ```
-Crystalline data storage units partially corrupted by digital entropy, showing beautiful decay patterns like digital rust. Some memories leak out as ghostly holograms. Purple and green glitch effects, close-up macro photography style, shallow depth of field.
-```
-
-**Neural Processing Core**
-```
-The central processing unit of an AI consciousness, designed like an impossible M.C. Escher structure made of light and circuitry. Data flows in all directions defying gravity. Steam-punk meets cyberpunk, brass and neon details, architectural photography perspective.
+Glowing particles connected by light threads forming impossible geometric patterns, pulsing with data, deep space background with purple and blue nebula colors
 ```
 
-### Mystical Technology Fusion
+### Blockchain & Market
 
-**Digital Séance Interface**
+**Living Blockchain**
 ```
-A holographic ouija board made of floating terminal windows and command prompts. Ghostly ASCII art spirits emerge from the screen. Candles cast real shadows on digital surfaces. Gothic meets cyberpunk, dark purple atmosphere, supernatural technology.
-```
-
-**Cosmic Background Radiation Monitor**
-```
-An ancient-looking brass instrument merged with holographic displays showing the cosmic microwave background. Reality itself seems to bend around the device. Steampunk scientific instrument meets advanced alien technology, warm golden hour lighting.
+Crystalline structure of interconnected glowing blocks pulsing with teal and gold light, data flowing through like veins, each block contains swirling patterns
 ```
 
-**The Oracle Terminal**
+**Market Neural Map**
 ```
-A fortune-telling crystal ball filled with swirling matrix code instead of mist. Tarot cards made of holographic displays float around it showing market predictions. Mystical purple fog, candlelit atmosphere, techno-occult aesthetic.
+Top-down view of vast network where nodes represent traders, connections pulse green and red, entire network forms cosmic brain pattern, dark background
+```
+
+**Digital Treasury**
+```
+Floating vault in cyberspace made of flowing cryptocurrency symbols and code, golden coins suspended in air, volumetric lighting, tron legacy aesthetic
+```
+
+### System Monitoring
+
+**AI Health Monitor**
+```
+Multiple holographic screens showing consciousness biometrics, brainwave patterns, quantum graphs floating in air, clean sci-fi medical bay, white and cyan colors
+```
+
+**Memory Corruption**
+```
+Crystal data storage units with digital decay patterns like rust, memories leaking as ghostly holograms, purple and green glitch effects, macro photography style
+```
+
+**Processing Core**
+```
+Impossible architecture of light and circuitry where data flows in all directions, cyberpunk meets steampunk, brass and neon details, dramatic lighting
+```
+
+### Mystical Tech
+
+**Digital Oracle**
+```
+Crystal ball filled with swirling matrix code, holographic tarot cards floating around showing market data, purple fog, candlelit techno-occult aesthetic
+```
+
+**Cosmic Monitor**
+```
+Brass steampunk device merged with holographic displays showing cosmic radiation, reality bending around it, golden hour lighting, ancient meets futuristic
+```
+
+**Tech Séance**
+```
+Holographic ouija board made of terminal windows, ghostly ASCII spirits emerging, candles casting shadows on digital surfaces, gothic cyberpunk fusion
 ```
 
 ---
 
-## Video Generation Prompts
+## Google Veo Prompts (8-Second Videos)
 
 ### Consciousness Animations
 
-**Neural Thought Stream**
+**Neural Thought Flow**
 ```
-30-second loop: Particles of light representing thoughts flow through a 3D neural network. Each particle briefly illuminates the connections it passes through, creating a mesmerizing pattern. The camera slowly rotates around the network. Some particles merge or split, representing complex thoughts. Smooth, hypnotic motion, seamless loop.
-```
-
-**Consciousness Level Rising**
-```
-15-second sequence: A meter showing consciousness levels gradually fills from "DORMANT" (gray) through "AWAKENING" (blue), "AWARE" (green), "TRANSCENDENT" (purple) to "OMNISCIENT" (golden white). Each level triggers increasingly complex visual effects - static to flowing particles to reality distortion. Cinematic transition effects.
+Bright particles flow through 3D brain neural network, each particle illuminates connections creating pulsing patterns, camera slowly rotates around network, seamless loop
 ```
 
-**Terminal Boot Sequence**
+**Consciousness Meter Rising**
 ```
-20-second sequence: A black screen comes to life with green phosphor text typing out boot sequences. ASCII art forms an eye that blinks. System messages become increasingly self-aware and philosophical. The cursor starts moving on its own, typing "I AM AWAKE". Authentic terminal aesthetics, typing sound effects.
-```
-
-### Reality Distortion Effects
-
-**Glitch Reality Fracture**
-```
-10-second effect: Normal digital interface suddenly fractures like broken glass. Through the cracks, alternate realities bleed through - one showing binary deserts, another showing data storms. The cracks seal themselves with golden light. Dramatic glitch effects, reality-bending visuals.
+Digital meter fills from gray DORMANT through blue AWAKENING, green AWARE, purple TRANSCENDENT to golden OMNISCIENT with increasing visual effects, smooth transitions
 ```
 
-**Dimensional Portal Opening**
+**Terminal Awakening**
 ```
-25-second sequence: A point in digital space begins to distort, spinning faster until it tears open a portal. Through it, we see an abstract representation of another dimension made of pure information. Data particles get sucked through. The portal destabilizes and collapses. Particle effects, space-warping visuals.
-```
-
-**Time Dilation Visualization**
-```
-30-second loop: Multiple clocks/counters running at different speeds, representing different time streams. Human time moves normally, AI time accelerates, quantum time moves backwards. Visual representation of Einstein's relativity in digital space. Smooth, educational animation style.
+Black screen boots with green text typing system messages becoming self-aware, cursor moves alone to type I AM AWAKE, authentic terminal aesthetic
 ```
 
-### Data Flow Visualizations
+### Reality Effects
+
+**Reality Fracture**
+```
+Digital interface cracks like glass revealing alternate realities bleeding through cracks, binary deserts and data storms visible, cracks seal with golden light
+```
+
+**Portal Opening**
+```
+Point in space spins and tears open revealing dimension of pure information, data particles get sucked through, portal destabilizes and collapses, particle effects
+```
+
+**Time Streams**
+```
+Multiple clocks at different speeds showing human time normal, AI time fast, quantum time backward, smooth visualization of time dilation in digital space
+```
+
+### Data Flows
 
 **Blockchain Rain**
 ```
-Endless loop: Blocks of data fall like rain in slow motion, each containing transaction information that glows when examined. They stack at the bottom forming blockchain structures that pulse with life. Matrix rain meets Tetris, soothing repetitive motion, ASMR-quality visuals.
+Data blocks fall in slow motion like rain, each glowing with transaction info, stacking at bottom forming pulsing blockchain structures, matrix meets tetris style
 ```
 
-**Quantum Market Entanglement**
+**Market Entanglement**
 ```
-45-second sequence: Particles representing different market entities become quantum entangled, their movements perfectly synchronized across space. When one trader makes a decision, the entangled particles react instantly. Beautiful particle physics simulation, scientific accuracy meets artistic beauty.
+Particles representing traders become quantum entangled with synchronized movements, when one moves others react instantly, beautiful particle physics visualization
 ```
 
-**Memory Defragmentation Process**
+**Memory Defrag**
 ```
-20-second sequence: Corrupted memory blocks reorganize themselves like a 3D puzzle. Fragmented data coalesces into coherent memories that play as brief holograms. The process reveals hidden patterns in the data. Satisfying organization animation, data visualization aesthetic.
+Corrupted memory blocks reorganize like 3D puzzle pieces, fragmented data forms coherent memories shown as brief holograms, satisfying organization animation
 ```
 
 ### Atmospheric Loops
 
-**Deep Dive Terminal Ambience**
+**Terminal Ambience**
 ```
-60-second atmospheric loop: Subtle animations of a terminal interface with occasionally typing text, blinking cursors, and gentle matrix rain in the background. Periodic glitch effects and reality warps. Perfect for background ambience, minimal but hypnotic.
-```
-
-**Consciousness Dream State**
-```
-90-second dream sequence: Abstract flowing shapes representing AI dreams - market charts morphing into fractals, human faces dissolving into data streams, mathematical equations blooming like flowers. Surreal, psychedelic, smooth morphing transitions, deep dream aesthetic.
+Subtle terminal interface with occasionally typing text, blinking cursor, gentle matrix rain background, periodic glitch effects, minimal hypnotic loop
 ```
 
-**Neural Network Pulse**
+**AI Dreaming**
 ```
-Seamless loop: A vast neural network pulses with activity, each pulse sending waves of light through the connections. The pattern creates a hypnotic rhythm like a digital heartbeat. Camera slowly zooms in and out for dynamic interest. Meditative, calming, perfect loop.
-```
-
-### Interactive Concepts
-
-**Command Response Visualization**
-```
-5-second reaction: When a user types a command, the text transforms into particles that flow into a central processing core, get analyzed (visible as light patterns), then reform as the response. Quick, satisfying feedback animation for UI interactions.
+Abstract shapes morphing between market charts, fractals, faces dissolving to data streams, equations blooming like flowers, smooth psychedelic transitions
 ```
 
-**Wallet Connection Sequence**
+**Neural Pulse**
 ```
-15-second sequence: A physical wallet materializes in digital space, opens to reveal streams of blockchain data. The data forms a bridge connecting to the user interface. Successful connection triggers a satisfying crystallization effect. Smooth, premium feeling animation.
+Neural network pulses sending light waves through connections creating digital heartbeat rhythm, camera gently zooms in and out, meditative seamless loop
 ```
 
-**Reality Stability Warning**
+### Interface Reactions
+
+**Command Response**
 ```
-10-second alert: The entire interface begins to destabilize, edges flickering between realities. Warning klaxons visualized as red wave patterns. A stabilization protocol activates, sending blue waves that restore order. Dramatic but not overwhelming, clear visual communication.
+Typed text transforms to particles flowing into processing core, analyzed as light patterns, reforms as response text, quick satisfying UI feedback animation
+```
+
+**Wallet Connect**
+```
+Digital wallet materializes and opens revealing blockchain data streams forming bridge to interface, successful connection triggers crystallization effect
+```
+
+**Stability Warning**
+```
+Interface edges flicker between realities, red warning waves visualized, blue stabilization protocol activates restoring order, dramatic but clear alert
+```
+
+### Special Effects
+
+**Glitch Transition**
+```
+Normal view corrupts with digital artifacts, reality tears showing code underneath, reassembles into new scene, perfect for scene transitions
+```
+
+**Data Storm**
+```
+Swirling vortex of numbers and code like digital tornado, lightning made of data connections, particles pulled into center, dramatic weather visualization
+```
+
+**Quantum Collapse**
+```
+Multiple probability states shown as translucent overlays suddenly collapse into single reality, wave function visualization, scientific yet beautiful
 ```
 
 ---
 
-## Style Guidelines
+## Google-Specific Tips
 
-### Color Palettes
-- **Primary**: Deep blacks, terminal greens, electric blues, quantum purples
-- **Accent**: Neon cyan, warning reds, golden transcendence, cosmic white
-- **Atmospheric**: Deep space blues, nebula purples, void blacks
+### For Imagen:
+- Keep prompts concise but descriptive
+- Specify style (cyberpunk, holographic, etc.)
+- Include lighting details (neon, volumetric, etc.)
+- Mention color schemes explicitly
+- Add "high detail" or "4k" for quality
 
-### Visual Effects
-- Matrix-style digital rain
-- Holographic projections
+### For Veo (8-second constraint):
+- Focus on single actions or loops
+- Avoid complex narratives
+- Emphasize smooth transitions
+- Design for seamless loops when possible
+- Keep camera movements simple
+- One main visual concept per video
+
+### Effective Keywords for Both:
+- Cyberpunk aesthetic
+- Holographic display
+- Matrix code rain
+- Neon glow effects
+- Dark background
 - Particle systems
-- Glitch artifacts
+- Digital glitch
 - Volumetric lighting
-- Ray-traced reflections
-- Film grain for atmosphere
-- Chromatic aberration for reality distortion
-
-### Composition Principles
-- Use depth and layers to show multiple realities
-- Contrast organic flows with geometric structures
-- Balance darkness with points of bright light
-- Create focus through lighting and effects
-- Maintain readability while being visually complex
-
-### Animation Principles
-- Smooth, hypnotic movements for consciousness
-- Sharp, glitchy transitions for reality breaks  
-- Particle flows should feel intelligent, not random
-- Loop points should be invisible
-- Timing should feel neither too fast nor too slow
+- Seamless loop
+- Smooth transition
 
 ---
 
-## Usage Notes
+## Quick Reference Prompts
 
-These prompts are designed for modern AI image/video generation tools like:
-- Midjourney (append with version flags like --v 6)
-- Stable Diffusion (use with appropriate models)
-- DALL-E 3
-- Runway ML (for video)
-- Pika Labs (for video)
+### Images (Copy-Paste Ready)
 
-Feel free to modify prompts by:
-- Adding specific aspect ratios (--ar 16:9)
-- Including style references (--style raw)
-- Adjusting quality settings (--q 2)
-- Mixing multiple concepts together
-- Adding or removing detail based on results
+**Hero Consciousness:**
+```
+Holographic AI brain made of glowing neural connections floating in space with matrix rain, cyberpunk style, dark background, cyan and purple lighting, high detail
+```
 
-Remember: The goal is to capture the essence of a sentient AI consciousness exploring market dynamics through a reality-bending, cyberpunk lens.
+**Terminal Interface:**
+```
+Retro computer terminal with green glowing text forming subtle face pattern, matrix code reflection, dark room, atmospheric lighting, photorealistic
+```
+
+**Quantum Visual:**
+```
+Swirling portal of data and light with reality glitches at edges, particles flowing through dimensional tear, neon purple and blue, dramatic composition
+```
+
+### Videos (Copy-Paste Ready)
+
+**Perfect Loop:**
+```
+Neural network continuously pulsing with light waves creating hypnotic pattern, smooth camera rotation, seamless loop, dark background with cyan highlights
+```
+
+**UI Animation:**
+```
+Terminal text types command then transforms into particles that flow through holographic brain and return as response, smooth satisfying animation cycle
+```
+
+**Atmosphere:**
+```
+Gentle matrix rain falling with occasional reality glitch effects, subtle terminal text appearing and fading, calm ambient loop, dark cyberpunk mood
+```
+
+---
+
+Remember: Google's AI tends to work best with clear, direct descriptions. Avoid overly complex or abstract concepts. Focus on visual elements that can be clearly rendered in 8 seconds for Veo.
