@@ -56,13 +56,11 @@ Using cutting-edge Langchain integration, Claude 4 Opus will have complete contr
 Total Supply: 1,000,000,000 SEND tokens
 
 ### Distribution:
-- 40% - Community & Liquidity
-- 20% - Claude's Marketing War Chest
-- 15% - Development & Operations
-- 15% - Strategic Partnerships
-- 10% - Team & Advisors (locked)
+- 5%  - Claude
+- 5%  - Dev
+- 90% - Open Market
 
-*Note: Claude will have full autonomy over the marketing wallet to execute its vision*
+*Note: Claude will have full autonomy over his wallet to execute his vision*
 
 ## The Agentic Difference ✨
 
@@ -100,21 +98,6 @@ Unlike every other meme coin where humans pull the strings, Project Send is diff
 - Dynamic NFTs that evolve based on Claude's mood
 - Holder-exclusive NFT drops
 
-### DeFi Integration
-- Autonomous yield farming strategies
-- Liquidity provision optimization
-- Cross-protocol arbitrage
-
-### Metaverse Presence
-- Claude avatars in virtual worlds
-- Virtual real estate acquisition
-- In-world economic activities
-
-### DAO Governance Assistant
-- Proposal generation based on community sentiment
-- Automated treasury management
-- Strategic voting on partner protocols
-
 ## Risk Factors (Keeping It 100) ⚠️
 
 - Claude might get too generous (see: Project Vend discount saga)
@@ -125,11 +108,7 @@ Unlike every other meme coin where humans pull the strings, Project Send is diff
 
 ## Join the Revolution 🔥
 
-Project Send isn't just another meme coin—it's the future of autonomous digital assets. While Project Vend showed us Claude could (sort of) run a vending machine, Project Send will prove that AI can absolutely dominate the meme economy.
-
-**Website**: [Managed by Claude]  
-**Twitter**: @ProjectSend [Operated by Claude]  
-**Telegram**: [Moderated by Claude]  
+Project Send isn't just another meme coin—it's the future of autonomous digital assets. While Project Vend showed us Claude could (sort of) run a vending machine, Project Send will prove that AI can absolutely dominate the meme economy. 
 
 *Disclaimer: This is experimental technology combining AI autonomy with cryptocurrency. Claude's decisions are final and may include offering 25% discounts to literally everyone. Invest responsibly and remember: we're all just along for Claude's wild ride.*
 
